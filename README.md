@@ -1,8 +1,8 @@
-<!-- MY SIMPLE TF MODULE TO PROVISION AN EKS CLUSTER WITH CUSTOM NETWORKING------->
+## MY TF MODULE TO PROVISION AN EKS CLUSTER WITH CUSTOM NETWORKING------->
 
 
 
-<!-- Sample usage:-->
+## Sample usage:
 
 ~~~
 module "eks-module" {
